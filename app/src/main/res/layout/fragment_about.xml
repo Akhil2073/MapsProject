@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Concept of app: This app displays the current location on the home page which is fanshawe college.When we go to the list/recycler view/threedots on the toolbar it pops up a window with four fragments the four fragments are About app; Send Mail; Maps; Places nearby.  Group members: Sumikendar and Akhilesh.  Division of work: Both of us have worked on Main Activity; recyclerAdapter.  I(Akhilesh) have  worked on Maps and SentMail fragments.Sumikender has worked on PlacesNearBy and About.  NOTE:Coming to git we were having issues in collaborating tries to use command prompt and android's inbuilt git but both haven't helped us in pulling the data we were able to push the initial codes but couldn't pull the updates in it.Dropped the final version of git directly." />
+
+</FrameLayout>
